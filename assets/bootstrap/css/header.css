@@ -1,0 +1,43 @@
+body {
+    background-image: url('../../img/foto.png');
+    background-size: cover;
+}
+
+p {
+    color: rgb(245, 0, 0);
+}
+
+h5 {
+    color: rgb(0, 30, 255);
+}
+
+.id {
+    color: rgb(252, 0, 0);
+}
+
+th {
+    color: rgb(0, 33, 248);
+}
+
+td {
+    color: rgb(17, 255, 0);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+h3 {
+    margin-left: 35rem;
+    color: aliceblue;
+
+}
+.modal-body {
+    background-image: url('../../img/categoria-hombre.jpg');
+    background-size: cover;
+}
+
+.modal-content{
+    color: blue;
+}
